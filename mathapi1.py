@@ -44,4 +44,4 @@ def math():
 # math(LatexNodes2Text().latex_to_text("87/5 as a mixed number"))
 
 if __name__ == "__main__":
-    app.run(debug=True, host='0.0.0.0', port='5000')
+    app.run(debug=True, host='3.23.132.232', port='8501')
