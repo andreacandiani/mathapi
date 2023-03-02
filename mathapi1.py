@@ -1,5 +1,3 @@
-
-import json
 import wolframalpha
 from pylatexenc.latex2text import LatexNodes2Text
 import requests 
